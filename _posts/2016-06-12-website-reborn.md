@@ -3,7 +3,7 @@ layout: post
 title: "Website Reboot"
 description: 
 headline: 
-modified: 2016-03-12
+modified: 2016-06-12
 category: misc
 tags: [jekyll]
 imagefeature: 
@@ -14,7 +14,7 @@ featured: false
 published: true
 ---
 
-After some time away I am finally getting around to restarting my website and blog. My hope going forward is to fill it with posts about comptuer science, education, technical posts, and miscellaneous ramblings that may have no relevance to anything important.
+After some time away I am finally getting around to restarting my website and blog. My hope going forward is to fill it with posts about computer science, education, technical posts, and miscellaneous ramblings that may have no relevance to anything important.
 
 In its prior life this site was written using Wordpress. I thought about continuing to use Wordpress going forward, but ultimately decided on Github Pages and Jekyll. Here is why I made that decision:
 
